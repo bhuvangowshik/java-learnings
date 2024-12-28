@@ -1,0 +1,7 @@
+if a = 10;
+here 'a' is in stack memory which is pointing the object '10' that will be in heap memory. 
+
+if a = 10;
+ b = a;
+then only one object will be created in heap memory and that will be pointed by both. 
+so if any of it is modified the object will be changed. That is, Passing by reference.
