@@ -1,0 +1,11 @@
+Procedural Programming: 
+It focuses on a sequence of instructions to perform tasks. 
+For example, making a sandwich by following step-by-step directions.
+
+Functional Programming: 
+It emphasizes functions that avoid changing states and mutable data. 
+Think of it as a kitchen where every appliance is used for a specific task without altering any ingredients.
+
+Object-Oriented Programming: 
+It organizes code into objects that represent real-world entities, each with attributes (data) and methods (functions). 
+It's like a chef with a toolbox where each tool has specific features and actions.
