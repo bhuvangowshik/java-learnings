@@ -1,0 +1,9 @@
+Static: 
+It means that something is determined at compile-time and does not change at runtime. 
+Think of it like your birthday—it’s a fixed date that doesn’t change.
+
+Dynamic:
+It means that something can change at runtime based on different conditions or inputs. 
+It's like your mood throughout the day—constantly changing based on what happens around you.
+
+Static concepts are fixed and unchanging, while dynamic ones are flexible and adaptable.
